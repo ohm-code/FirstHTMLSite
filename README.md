@@ -1,7 +1,7 @@
-# FirstHTMLSite
+# OdinRecipes
 First HTML Site Creation before CSS knowledge
 Leading up to this:
-Understanding Git and how to use Github
+<p>Understanding Git and how to use Github</p>
 Manipulation of files (creation, movement, linking files)
 Basic HTML boilerplate and tags
 HTML relative and absolute linkes
