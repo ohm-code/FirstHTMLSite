@@ -1,0 +1,23 @@
+/* styles.css */
+
+div {
+    text-align: center;
+    color: blue;
+    background-color: cadetblue;
+}
+
+li {
+    margin-left: 10%;
+}
+
+H1 {
+    text-align: center;
+    background-color:rgba(86, 49, 144, 0.349);
+}
+
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
