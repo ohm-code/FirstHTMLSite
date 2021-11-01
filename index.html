@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <link rel="stylesheet" href="styles.css" />
+   
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,9 +10,15 @@
 </head>
 <body>
     <h1>Recipes</h1>
+    <em>
+        <p id="title">Here are some assorted recipes that I have created!</p>
+    </em>
     <img src="images/chef2.gif" alt="chef gif" height="auto" width="auto" class="center">  
-    <p><a href="recipes/cheesepizza.html">Cheese Pizza</a></p>
-    <p><a href="recipes/curry.html">Curry</a></p>
-    <p><a href="recipes/lasagna.html">Lasagna</a></p>
+   
+    <div class = "flex-container">
+        <div class = "item flex-container"><a href="recipes/cheesepizza.html">Cheese Pizza</a></div>
+        <div class = "item flex-container"><a href="recipes/curry.html">Curry</a></div>
+        <div class="item flex-container"><a href="recipes/lasagna.html">Lasagna</a></div>
+    </div> 
 </body>
 </html>
